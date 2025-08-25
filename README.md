@@ -1,123 +1,118 @@
-<h1 align="center">Hi 👋, I'm Pritam Nagar</h1>
-<h3 align="center">Mechanical Engineer | Data Enthusiast | Frontend Explorer</h3>
+<!-- Typing SVG Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pritam+Nagar!;Data+Analyst+%7C+Frontend+Developer;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Final+Year+B.Tech+%40+NIT+Bhopal" />
+</h1>
+
+<h3 align="center">Turning Data into Decisions | Building Projects that Inspire 🚀</h3>
+
+---
+
+## 🌐 **Connect with Me**
 
 <p align="center">
-  <a href="mailto:pritamnagar2211@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/pritam-nagar-4a66b2259">🔗 LinkedIn</a>
+  <a href="mailto:pritamnagar2211@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://pritam9952.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/pritam-nagar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/pritam_nagar_027">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## 📑 Table of Contents
-- [About Me](#-about-me)
-- [Technical Skills](#-technical-skills)
-- [Projects](#-projects)
-- [Internship Experience](#-internship-experience)
-- [Certifications](#-certifications)
-- [Awards & Highlights](#-awards--grit-highlights)
-- [GitHub Stats](#-github-stats)
-- [Let’s Connect](#-lets-connect)
+## 🚀 **Featured Projects**
+
+| 🛠 Project | ⚡ Tech Stack | 🔗 Link |
+|-----------|-------------|----------|
+| **Defect Analysis Dashboard – Eicher TMTL** | Excel, Power Query | [View Project](https://github.com/Pritam9952/Data-Analysis-Project-Excel/tree/main/Eicher_Tmtl_Traniee) |
+| **Hospital Management System** | Python, SQL | [View Project](https://github.com/Pritam9952/Data-Analysis-Project-SQL/tree/main/SQL_HSOPITAL_PROJECT) |
+| **Dragon Real Estate Prediction** | Python, Pandas, Sklearn | [View Project](https://github.com/Pritam9952/Machine_Learining_Projects/tree/main/Dragon_Real_Estate) |
+| **IPL Data Analysis** | Python, Pandas | [View Project](https://github.com/Pritam9952/Data_Analysis-Python-Projects/tree/main/IPL%202025%20Mega%20Auction) |
+| **Portfolio Website** | HTML, CSS, JS | [View Project](https://pritam9952.github.io) |
 
 ---
 
-## 💼 About Me
+## 🧰 **Tech Stack & Skills**
 
-🎓 Final-year B.Tech student in Mechanical Engineering at NIT Bhopal  
-🔍 Passionate about data analytics, visualization, and front-end development  
-🧠 Proficient in Python, Excel, SQL, HTML/CSS — with strong analytical skills in defect pattern analysis  
-⚙️ Known for grit, resilience, and a problem-solving mindset
-
----
-
-## 🧰 Technical Skills
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🏭 **Internship Experience**
 
-### 📊 [Defect Analysis Dashboard](https://github.com/Pritam9952/defect-analysis-excel) | *Excel*
-- Built an Excel dashboard from tractor QA data at Eicher TMTL  
-- Visualized surface defect trends & zones to cut errors by ~12%  
-- Presented insights that improved quality checks
-
-### 🌐 [Portfolio Website](https://github.com/Pritam9952/portfolio-site) | *HTML, CSS, JavaScript*
-- Designed a responsive portfolio site for showcasing projects & certifications  
-- Practiced frontend fundamentals and web structuring
-
-### 🎬 [Netflix Clone](https://github.com/Pritam9952/netflix-clone) | *HTML, CSS*
-- Created a static Netflix homepage using HTML & CSS  
-- Focused on responsive layout & front-end styling
-
-> **More Projects:**  
-> Check out my repos on [GitHub Projects](https://github.com/Pritam9952?tab=repositories)
-
----
-
-## 🏭 Internship Experience
-
-**Trainee | Eicher TMTL, Bhopal**  
-*May – June 2024*
+**Trainee | Eicher TMTL, Bhopal** *(May – June 2024)*  
 - Analyzed defects in tractor manufacturing lines  
-- Built pivot dashboards in Excel to track issues  
-- Proposed changes that helped reduce surface defects  
-- Collaborated with QA team for root cause solutions
+- Built **interactive dashboards** using Excel  
+- Proposed solutions that reduced surface defects  
+- Collaborated with QA team for root cause analysis  
 
 ---
 
-## 📜 Certifications
+## 📜 **Certifications**
 
-- **Google Data Analytics Specialization**
-  - Data Preparation, Cleaning, and Analysis with R
-  - Making Data-Driven Decisions
-
----
-
-## 🏆 Awards & Grit Highlights
-
-- Overcame early visual impairment and physical injuries  
-- Achieved academic success despite health challenges  
-- Head Boy in school, Sanskrit 3rd Ranker, Cricket runner-up 🏏
+- **Google Data Analytics Specialization** *(Coursera)*  
+- Data Cleaning, Visualization, R Programming & Reporting
 
 ---
 
-## 🔭 Current Focus
-
-- Learning: Streamlit, Power BI, Advanced SQL  
-- Goal: Build and deploy data dashboards  
-- Preparing for: Data Analyst/Intern Roles for 2025
-
----
-
-## 📈 GitHub Stats
+## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pritam9952&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam9952&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pritam9952&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam9952&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pritam9952&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 ---
 
-## 📄 Resume
+## 📈 **Activity Graph**
 
-- [Click to View My Resume](https://drive.google.com/your-resume-link)
-
----
-
-## 🤝 Let’s Connect!
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pritam-nagar-4a66b2259)
-- 📧 Email: pritamnagar2211@gmail.com
-- 🌐 [Portfolio (optional)](https://your-portfolio-link.com)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritam9952&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
-> *“Turning obstacles into opportunities with code and courage.”*
+## 🏆 **Achievements**
+
+- Overcame early **visual impairment** and health challenges  
+- Ranked **3rd in Sanskrit Olympiad** 🏅  
+- Former **Head Boy** in school  
+- Cricket Tournament **Runner-Up** 🏏  
+
+---
+
+## 🔭 **Currently Working On**
+
+- Learning **Streamlit, Power BI, Advanced SQL**  
+- Building **interactive dashboards & ML projects**  
+- Preparing for **Data Analyst / Internship roles (2025)**  
+
+---
+
+## 📄 **Resume**
+
+📌 [**Click Here to View My Resume**](https://drive.google.com/file/d/1WOresmf_OGP3lhH3U5dNN2CoDO9fi5sP/view?usp=drive_link)
+
+---
+
+<h3 align="center">✨ “Turning Obstacles into Opportunities with Code & Courage” ✨</h3>
